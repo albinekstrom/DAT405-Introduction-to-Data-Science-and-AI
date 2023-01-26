@@ -1,0 +1,1 @@
+Group 2 1 [1/1] 2a [1/1] 2c [1/1] 2d [1/1] 3a [0.5/1] Some experimentation, but a lot of clusters 3b [0.75/1] Could have discussed the results a bit more 3c [1.25/1.5]Some discussion on the difference in handling outliers 3d [0.5/.5] 4 [1.5/2] Obtained clusters for GLY look a bit strange. Remarks: Just -0.5 instead of -1 for late submission Total [8/10]

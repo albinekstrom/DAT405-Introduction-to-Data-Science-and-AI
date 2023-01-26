@@ -1,0 +1,1 @@
+1a [1 /1pt] Good 1b [ 0.75/1pt] you do not need the summation 2 [1.25/2pt] The solution is not clear. You cannot change the labeling. 3a [1.5/1.5pt] good 3b [1.5 /1.5pt]good 4a [ 1.25/1.5pt] In iteration 4, why do you select (4,2) and not (3,1)? 4b [1.5 /1.5pt]good Total [ 8.75/10pt]
